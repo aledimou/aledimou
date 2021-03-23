@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aledimou
-- 👀 I’m interested on Backend Development
+- 👀 I’m interested on JavaScript
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on MERN Stack Projects
 - 📫 How to reach me LinkdeIn=> https://www.linkedin.com/in/alex-dimou-ab90b8181/
