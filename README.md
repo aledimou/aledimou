@@ -2,7 +2,7 @@
 - 👀 I’m interested on JavaScript
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on MERN Stack Projects
-- 📫 How to reach me LinkedIn=> https://www.linkedin.com/in/alex-dimou-ab90b8181/
+- 📫 How to reach me : alexdm36@gmail.com
 
 <!---
 aledimou/aledimou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
