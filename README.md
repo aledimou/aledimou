@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aledimou
-- 👀 I’m interested on JavaScript
-- 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on MERN Stack Projects
+- 👀 I’m interested on VueJS and .NET 
+- 🌱 I’m currently learning ASP.NET Core
+- 💞️ I’m looking to collaborate on .NET projects
 - 📫 How to reach me : alexdm36@gmail.com
 
 <!---
